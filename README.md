@@ -2,6 +2,7 @@
 A lightweight Python command-line utility to perform basic arithmetic operations and percentage calculations on two user-supplied numbers.
 
 Features
+
 Addition: Calculates the sum of two values.
 
 Subtraction: Calculates the difference between the first and second value.
@@ -15,6 +16,7 @@ Percentage: Determines what percentage the first number is of the second number 
 Precision Formatting: Rounds all output results to 2 decimal places.
 
 How It Works
+
 The script operates through three sequential stages:
 
 Function Definitions: Implements modular helper functions for each supported operation:
